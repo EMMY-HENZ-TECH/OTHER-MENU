@@ -1,5 +1,6 @@
+<a href="https://ibb.co/tsxr1jB"><img src="https://i.ibb.co/3NMZP61/IMG-20241117-WA0016.jpg" alt="IMG-20241117-WA0016" border="0"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐇𝐀𝐂𝐊+𝐙𝐎𝐍𝐄!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+OTHER+MENU!)](https://git.io/typing-svg)
 <html lang="en">
 <head>
   <meta charset="UTF-8">
